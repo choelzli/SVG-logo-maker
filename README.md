@@ -1,6 +1,6 @@
 # SVG-logo-maker
 [![Github license](https://img.shields.io/badge/License-MIT-e6e7bb.svg)](https://opensource.org/license/mit/)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/)
 
 ## The Repository
 
@@ -39,7 +39,6 @@ Licensed under the MIT license.
 ## Credits
 
 Base code strategies provided by Columbia Coding Bootcamp. Other sources include:
-* [The Contributor Covenant](https://www.contributor-covenant.org/)
 * [Jest.js Docs](https://jestjs.io/docs/getting-started)
 * [W3 Schools: SVG Circle](https://www.w3schools.com/graphics/svg_circle.asp)
 * [W3 Schools: SVG Polygon](https://www.w3schools.com/graphics/svg_polygon.asp)
